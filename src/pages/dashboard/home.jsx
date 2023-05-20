@@ -1757,7 +1757,7 @@ export function Home() {
 
             <img
               className="h-auto max-w-full rounded-lg"
-              src="../../../public/img/chart1.png"
+              src="chart1.png"
               alt="image description"
             />
 
@@ -1792,7 +1792,7 @@ export function Home() {
 
             <img
               className="h-auto max-w-full rounded-lg"
-              src="../../../public/img/chart2.png"
+              src="chart2.png"
               alt="image description"
             />
 
@@ -1827,7 +1827,7 @@ export function Home() {
 
             <img
               className="h-auto max-w-full rounded-lg"
-              src="../../../public/img/chart3.png"
+              src="chart3.png"
               alt="image description"
             />
 
