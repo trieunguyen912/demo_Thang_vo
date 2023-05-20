@@ -1757,7 +1757,7 @@ export function Home() {
 
             <img
               className="h-auto max-w-full rounded-lg"
-              src="https://github.com/trieunguyen912/demo_Thang_vo/blob/master/public/img/chart1.png"
+              src="https://i.pinimg.com/564x/ae/29/e9/ae29e94f7912fd90ede88b942c63a8fc.jpg"
               alt="image description"
             />
 
@@ -1792,7 +1792,7 @@ export function Home() {
 
             <img
               className="h-auto max-w-full rounded-lg"
-              src="https://github.com/trieunguyen912/demo_Thang_vo/blob/master/public/img/chart2.png"
+              src="https://i.pinimg.com/564x/4f/a8/1c/4fa81cd4ed88389fed3a087b3b010cf9.jpg"
               alt="image description"
             />
 
@@ -1827,7 +1827,7 @@ export function Home() {
 
             <img
               className="h-auto max-w-full rounded-lg"
-              src="https://github.com/trieunguyen912/demo_Thang_vo/blob/master/public/img/chart3.png"
+              src="https://i.pinimg.com/564x/ec/f7/36/ecf7365706b1a8c015363f37419b1563.jpg"
               alt="image description"
             />
 
